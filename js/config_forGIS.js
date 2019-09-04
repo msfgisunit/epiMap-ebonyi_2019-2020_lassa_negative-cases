@@ -36,7 +36,7 @@
 	                    // dimTime (STRING) - Temporal dimension, for the filter slider.
 	                    dimTime : "Weeks",
 	                    // temportal boundaries (timeMin, timeMax, defaultTime : INTERGER [defined] / STRING [default]) - Bound the temporal dimension : set a number for defined value, write a string for automatic value.
-	                    timeMin : 53,
+	                    timeMin : 1,
 	                    timeMax : 87,
 	                    defaultTime : "",
 	                    // dimGeo (STRING) - Geographical dimension, usually 'p' codes. Joins to geometry.
